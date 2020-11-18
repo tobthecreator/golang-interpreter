@@ -13,6 +13,8 @@ const (
 	IDENT       = "IDENT"
 	INT         = "INT"
 	ASSIGN      = "="
+	EQ          = "=="
+	NOT_EQ      = "!="
 	PLUS        = "+"
 	MINUS       = "-"
 	EXCLAMATION = "!"
